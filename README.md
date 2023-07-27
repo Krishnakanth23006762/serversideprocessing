@@ -135,6 +135,7 @@ urlpatterns = [
     path('areaoftriangle/',views.rectarea,name="areaoftriangle"),
     path('',views.rectarea,name="areaoftriangleroot")
 ]
+```
 
 ## OUTPUT:
 ![OUTPUT](./out.png)
